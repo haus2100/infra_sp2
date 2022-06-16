@@ -13,10 +13,6 @@
 - DRF, JWT
 ### Установка
 
-Клонировать репозиторий:
-```
-git clone https://github.com/kh199/infra_sp2
-```
 Создать и заполнить файл .env:
 ```
 DB_ENGINE=django.db.backends.postgresql
