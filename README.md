@@ -55,3 +55,6 @@ https://github.com/haus2100
 https://github.com/kuzdmv
 - Лев Белов - автор третий части.
 https://github.com/WhiteLev
+
+### License
+Free Software
